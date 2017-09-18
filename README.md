@@ -1,5 +1,5 @@
 ### 介绍
-这是一个微信小程序开发脚手架
+这是一个微信小程序开发脚手架，JS支持使用ES6，CSS开发使用的是LESS
 
 ### 搭建本地环境
 ```bash
@@ -17,3 +17,5 @@ npm run build
 
 ### 注意
 > 工程没有dist目录，执行npm run dev命令会自动生成dist目录，dist目录就是微信开发者工具中设置的项目目录
+
+使用脚手架过程中，遇到有问题，欢迎提[issue](https://github.com/autrol/mina/issues)
